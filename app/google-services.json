@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573308157426",
+    "project_id": "waseem-f432a",
+    "storage_bucket": "waseem-f432a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573308157426:android:8e11db68038ff2bfe6bf6b",
+        "android_client_info": {
+          "package_name": "com.example.waseem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByegnIgC_yX5ghshB41opMbuW0KKBJelI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
